@@ -1,3 +1,3 @@
 # Flatmivo
 Flatmivo is a shared-home management platform that helps housemates organise cleaning tasks, assign responsibilities, track progress, and manage household activities.
-<img width="1254" height="1254" alt="download" src="https://github.com/user-attachments/assets/a689d700-060b-448a-8491-62f5a881fef0" />
+<img width="700" height="700" alt="download" src="https://github.com/user-attachments/assets/a689d700-060b-448a-8491-62f5a881fef0" />
